@@ -30,7 +30,7 @@ Tomato supply chains require **planning at least 2 months in advance**. Incorrec
 * Optimize storage, transportation, and marketing
 * Reduce losses and improve farmer profit
 
----
+
 
 ## 🧠 Key Features
 
@@ -40,8 +40,6 @@ Tomato supply chains require **planning at least 2 months in advance**. Incorrec
 * 📦 Supply chain optimization
 * 🌐 E-market platform (AI-TOPSCS)
 * 📈 Demand forecasting & cost prediction
-
----
 
 ## 🏗️ System Architecture
 
@@ -70,9 +68,6 @@ Tomato supply chains require **planning at least 2 months in advance**. Incorrec
   * Cold storage
   * Value-added product units
 
-📌 *(As shown in system diagram – Page 1 & 3 of the document)* 
-
----
 
 ## 🔬 Methodology
 
@@ -83,7 +78,7 @@ Tomato supply chains require **planning at least 2 months in advance**. Incorrec
 * Frequency: Every 5 days
 * Data type: Multispectral images
 
----
+
 
 ### 2. Data Preprocessing
 
@@ -91,7 +86,7 @@ Tomato supply chains require **planning at least 2 months in advance**. Incorrec
 * Removal of cloud-affected data
 * Cleaning & normalization
 
----
+
 
 ### 3. Vegetation Indices (VIs)
 
@@ -104,8 +99,6 @@ Calculated indices:
 * PVI (Perpendicular VI)
 
 👉 These indices help establish **crop health vs yield relationship**
-
----
 
 ### 4. AI Model (RCNN / Mask R-CNN)
 
@@ -219,7 +212,7 @@ AI-TOPSCS/
 * 🌍 Multi-crop extension
 * ☁️ Cloud deployment
 
-
+Youtube link: https://youtu.be/TbCPIGtxZdY?si=H3SZ0cysjyrd7icj
 
 
 ## 📜 License
